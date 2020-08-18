@@ -1,0 +1,21 @@
+body {
+    background-color: #FAF8EF;
+    padding: 20px 50px;
+}
+
+.container {
+    max-width: 500px;
+    text-align: center;
+
+    .row {
+        margin: 10px 0px;
+    }
+}
+
+input {
+      width: 100%;
+}
+
+.error {
+    color: red
+}
